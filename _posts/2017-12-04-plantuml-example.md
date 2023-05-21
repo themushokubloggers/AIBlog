@@ -2,7 +2,8 @@
 layout: post
 title: Plantuml example
 categories: example
-tags: [plantuml]
+tags: [markdown, plantuml]
+
 ---
 
 ## My First PlantUML
