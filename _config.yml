@@ -47,7 +47,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/AIBlog" # the subpath of your site, e.g. /blog
 url: "https://themushokubloggers.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 favicon: "" # the favicon for your site
 
@@ -60,7 +60,7 @@ yat:
 # debug: false
 
 # If you don't want transparent header, you can set false
-# header_transparent: true
+header_transparent: true
 
 # If you want to change the content width, you can set to another value
 content_width: "1080px"
@@ -111,7 +111,7 @@ translate_langs:
 # spacegrey: #353535
 # snowwhite: #ffffff
 #
-# theme_color: snowwhite
+# theme_color: coolblack 
 #
 # Custom color as below:
 # theme_color: "#882250"
@@ -120,9 +120,9 @@ translate_langs:
 # Default brand colors as below:
 # orangered: #ff5100
 # greatgold: #f2cb05
-# greenblue: #389092
+greenblue: #389092
 #
-# brand_color: orangered
+brand_color: greenblue 
 #
 # Custom color as below:
 # brand_color: "#1a8e42"
