@@ -82,7 +82,7 @@ translate_langs:
     text: English
 
   - lang: vn 
-    img: https://cdn.countryflags.com/thumbs/vn/flag-400.png
+    img: https://cdn.countryflags.com/thumbs/vietnam/flag-400.png
     text: Vietnamese 
 
 #   - lang: fr
